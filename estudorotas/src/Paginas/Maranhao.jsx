@@ -7,7 +7,7 @@ export default function Maranhao () {
             Nordeste com belas praias e os famosos Lençóis Maranhenses. São Luís é a capital, destacada pelo centro histórico colonial.   </p>
 
             <p>
-                <img src="" />
+                <img src="Maranhão.jpg" />
             </p>
 
             <p>

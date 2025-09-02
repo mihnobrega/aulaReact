@@ -7,7 +7,7 @@ export default function MatoGrosso () {
             Estado do Centro-Oeste conhecido pelo Pantanal e pelo agronegócio. Cuiabá é a capital.        </p>
 
             <p>
-                <img src="" />
+                <img src="Mato Grosso.jpg" />
             </p>
 
             <p>

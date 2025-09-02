@@ -7,7 +7,7 @@ export default function MatoGrossoSul () {
             Localizado no Centro-Oeste, é onde fica Brasília, a capital federal do Brasil, conhecida pela arquitetura moderna de Oscar Niemeyer.          </p>
 
             <p>
-                <img src="" />
+                <img src="Mato Grosso do Sul.jpg" />
             </p>
 
             <p>

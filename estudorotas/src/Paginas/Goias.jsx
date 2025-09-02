@@ -8,7 +8,7 @@ export default function Goias () {
             </p>
 
             <p>
-                <img src="" />
+                <img src="Goiás.jpg" />
             </p>
 
             <p>
